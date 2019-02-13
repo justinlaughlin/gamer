@@ -1,0 +1,4 @@
+var structsurfacemesh__detail_1_1orient_hole_helper_3_01std_1_1integral__constant_3_01std_1_1size__t00f0597ec84e45f9938b6e1f49609649 =
+[
+    [ "apply", "structsurfacemesh__detail_1_1orient_hole_helper_3_01std_1_1integral__constant_3_01std_1_1size__t00f0597ec84e45f9938b6e1f49609649.html#ae8a5182cdff845b65c32235b4328794c", null ]
+];
